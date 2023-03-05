@@ -17,6 +17,7 @@ Intellectual: contribution. Future work
 * Methodology: The machine learning methodology explanation is used in this project, especially, word cload and bigram are used for text analysis. 
 * Results: The results shows some new high-frequency words and new relationship of keywords. 
 * Intellectual Merits: This project contributes to the future research direction of NFT prediction. More research can be conducted based on the new high-frequency words.
+
 **2. Preidcation project:** 
 * Background & Motivation: Ethereum has a large market cap, while its price predictability is not much addressed in the published literature. 
 * Research Qeustion: Thus, this project focuses on the research question that how effetive is machine learning algorithmns in predicting Etherem open price. 
