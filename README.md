@@ -25,6 +25,8 @@ Intellectual: contribution. Future work
 * Methodology: Linear regression and random forest regression are used as regression models. 
 * Results: The result shows that linear regression has a good performance, which random forest regression is not efficient. * Intellectual Merits: This project contributes to the times series data prediction, especially in the Ethereum value prediction. More researches on more kinds of machine learning models and more features related to the price prediction can be conducted in the future.
 
+**2. Casual inference project:** 
+
 
 ## Table of Contents
 
