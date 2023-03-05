@@ -15,31 +15,29 @@ Intellectual: contribution. Future work
 *2)Prediction project:* Ethereum has a large market cap, while its price predictability is not much addressed in the published literature. Thus, this project focuses on the research question that how effetive is machine learning algorithmns in predicting Etherem open price. This project is applied to the Ethereum opening price from 2015 to 2021. The machine learning methodology prediction is used in this project. Linear regression and random forest regression are used as regression models. The result shows that linear regression has a good performance, which random forest regression is not efficient. This project contributes to the times series data prediction, especially in the Ethereum value prediction. More researches on more kinds of machine learning models and more features related to the price prediction can be conducted in the future.
 
 
-
-## Project 1: Explanation
-[Stats201-Explanation-Haowen](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen)
-
-## Project 2: Prediction
-### Table of Contents
+## Table of Contents
 
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/spotlight)
 
-### Data
-#### Data Source: 
+## Data
+
+### Data Source: 
 - [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Queried_Data)
 - [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
 
-#### Meta Data Information
+### Meta Data Information
+
 | Data files| Data Content | Type|
-| :---         |     :---     | :---: |
+| ------------- | ------------- | ------------- |
 | ETHUSD.csv | Ethereum historical data from 2015 to 2021 | queried data |
 | Ethereum_value.csv | Ethereum data after preprocessing | queried data |
 | Regression_Train.csv | Data for model training | processed data |
 | Regression_Test.csv | Data for model test | processed data |
 
-#### Data Dictionary 
+#### Data Dictionary
+
 | variable name | description | frequency     |  unit.    | range| type|
 | :---         |     :---     |          ---: |---:        |---: |---: |
 | Date | Represents the date at which the share is traded in the stock market | monthly |day|from 2015-08-07 to 2021-10-20|Object|
