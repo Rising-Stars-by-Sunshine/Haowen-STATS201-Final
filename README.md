@@ -12,18 +12,18 @@ Intellectual: contribution. Future work
 ## Project Summary
 **1. Explanation project:** 
 * Background & Motivation: NFT is getting more and more popular, but the amount of research related to the prediction of the value a NFT product is still small. 
-* Research Qusetion: This project focus on the research question that what are the hot topics in the NFT prediction field. This question is important since it can help further research find new attributes in prediction. 
-* Application Senerios: This project is applied to eight literatures related to the NFT prediction topic. 
+* Research Question: This project focus on the research question that what are the hot topics in the NFT prediction field. This question is important since it can help further research find new attributes in prediction. 
+* Application Scenario: This project is applied to eight literatures related to the NFT prediction topic. 
 * Methodology: The machine learning methodology explanation is used in this project, especially, word cload and bigram are used for text analysis. 
 * Results: The results shows some new high-frequency words and new relationship of keywords. 
-* Intellectual Merits: This project contributes to the future research direction of NFT prediction. More research can be conducted based on the new high-frequency words.
+* Intellectual Merit & Practical Impacts: This project contributes to the future research direction of NFT prediction. More research can be conducted based on the new high-frequency words.
 
 **2. Preidcation project:** 
 * Background & Motivation: Ethereum has a large market cap, while its price predictability is not much addressed in the published literature. 
 * Research Qeustion: Thus, this project focuses on the research question that how effetive is machine learning algorithmns in predicting Etherem open price. 
 * Application Senerios: This project is applied to the Ethereum opening price from 2015 to 2021. The machine learning methodology prediction is used in this project. 
 * Methodology: Linear regression and random forest regression are used as regression models. 
-* Results: The result shows that linear regression has a good performance, which random forest regression is not efficient. * Intellectual Merits: This project contributes to the times series data prediction, especially in the Ethereum value prediction. More researches on more kinds of machine learning models and more features related to the price prediction can be conducted in the future.
+* Intellectual Merit & Practical Impacts: The result shows that linear regression has a good performance, which random forest regression is not efficient. * Intellectual Merits: This project contributes to the times series data prediction, especially in the Ethereum value prediction. More researches on more kinds of machine learning models and more features related to the price prediction can be conducted in the future.
 
 **3. Casual inference project:** 
 
