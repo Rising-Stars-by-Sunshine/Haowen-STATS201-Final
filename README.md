@@ -65,8 +65,21 @@ Intellectual: contribution. Future work
 ### Data Dictionary
 <div class="table-wrapper" markdown="block">
 
-| variable name | description | frequency     |  unit.    | range| type|
-| :---         |     :---     |          ---: |---:        |---: |---: |
+| File Name  | Variable Name | Description | Frecuency | Unit | Type |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Literatures.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/Literatures.csv) | Title  | titles of 12 literatures related to cryptocurrency prediction  | 1  | None  | str  |
+|   | Abstract  | abstract of 15 journals  | 1  | None  | str  |
+| [title_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/title_bigram.csv)  | bigram  | title's bigram  | None  | None  | tuple  |
+|   | 	counts  | counts of each bigram  | None  | None  | int  |
+| [abstract_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/abstract_bigram.csv)  | bigram  | abstract's bigram  | None  | None  | tuple  |
+|   | 	counts  | counts of each bigram  | None  | None  | int  |
+| [queried_data.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Queried_Data/queried_data.csv)  | Date  | 365 day's in 2022  | daily  | a day  | datetime  |
+|   | Daily Volume  | 2022 OpenSea daily volume (Ethereum) in ETH  | None  | eth  | float  |
+| [Regression_Train.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Train.csv)  | volume  | daily volume  | block  | eth  | float  |
+|   | 	volume_past_ma10  | past 10 days' volume  | block  | eth  | float  |
+| [Regression_Test.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Test.csv)  | volume  | daily volume  | block  | eth  | float  |
+|   | 	volume_past_ma10  | past 10 days' volume  | block  | eth  | float  |
+  
 | Date | Represents the date at which the share is traded in the stock market | monthly |day|from 2015-08-07 to 2021-10-20|Object|
 | Open | Represents the opening price of the stock at a particular date, which is the price at which a stock started trading when the opening bell rang | monthly |USD|from 0.431589 to 4174.635742|Numeric Types: float|
 | Close | Represents the closing price of the stock at a particular date, which is the last buy-sell order executed between two traders. The closing price is the raw price, which is just the cash value of the last transacted price before the market closes | monthly |USD|from 0.434829 to 4168.701172|Numeric Types: float|
