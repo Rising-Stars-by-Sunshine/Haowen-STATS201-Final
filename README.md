@@ -54,11 +54,11 @@ Intellectual: contribution. Future work
 | Data files| Data Content | Type|
 | ------------- | ------------- | ------------- |
 | [Literatures.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/Literatures.csv) | Literatures collected for explanation | queried data |
-| ETHUSD.csv | Ethereum historical data from 2015 to 2021 | queried data |
+| [ETHUSD.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/ETHUSD.csv) | Ethereum historical data from 2015 to 2021 | queried data |
 | Ethereum_value.csv | Ethereum data after preprocessing | queried data |
 | Regression_Train.csv | Data for model training | processed data |
 | Regression_Test.csv | Data for model test | processed data |
-| [Ethereum_Data.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Causal%20Inference/Ethereum_Data.csv) | The closing price of Ethereum from 2015 to 2023 | Data for model test | processed data |
+| [Ethereum_Data.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Causal%20Inference/Ethereum_Data.csv) | The closing price of Ethereum from 2015 to 2023 | queried data |
 
 </div>
 
