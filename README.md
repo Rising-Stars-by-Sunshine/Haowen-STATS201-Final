@@ -39,8 +39,9 @@ Intellectual: contribution. Future work
 
 - [Data](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author)
-- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#spotlight)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author)
+- [References](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references) 
 
 ## Data
 
