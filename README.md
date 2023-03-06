@@ -37,7 +37,7 @@ Intellectual: contribution. Future work
 
 ## Table of Contents
 
-- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data)
+- [Data](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/spotlight)
 
