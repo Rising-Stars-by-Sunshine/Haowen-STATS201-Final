@@ -1,13 +1,12 @@
-# Haowen-STATS201-Final
-motivation: motivate others to get interested in your research (related to the existing literature)
-Intellectual: contribution. Future work
-
 # Ethereum Price Prediction and the impact of FTX's bankrupty on the Ethereum Price
 ## General information
 - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the final project for [STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her instructions on STATS201 and thanks all the classmates for the inspiring discussions and feedbacks. 
+
+motivation: motivate others to get interested in your research (related to the existing literature)
+Intellectual: contribution. Future work
 
 ## Project Summary
 **1. Explanation project:** 
