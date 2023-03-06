@@ -38,8 +38,9 @@ Intellectual: contribution. Future work
 ## Table of Contents
 
 - [Data](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/spotlight)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references)
 
 ## Data
 
@@ -48,6 +49,7 @@ Intellectual: contribution. Future work
 - [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
 
 ### Meta Data Information
+<div class="table-wrapper" markdown="block">
 
 | Data files| Data Content | Type|
 | ------------- | ------------- | ------------- |
@@ -56,7 +58,10 @@ Intellectual: contribution. Future work
 | Regression_Train.csv | Data for model training | processed data |
 | Regression_Test.csv | Data for model test | processed data |
 
-#### Data Dictionary
+</div>
+
+### Data Dictionary
+<div class="table-wrapper" markdown="block">
 
 | variable name | description | frequency     |  unit.    | range| type|
 | :---         |     :---     |          ---: |---:        |---: |---: |
@@ -64,21 +69,30 @@ Intellectual: contribution. Future work
 | Open | Represents the opening price of the stock at a particular date, which is the price at which a stock started trading when the opening bell rang | monthly |USD|from 0.431589 to 4174.635742|Numeric Types: float|
 | Close | Represents the closing price of the stock at a particular date, which is the last buy-sell order executed between two traders. The closing price is the raw price, which is just the cash value of the last transacted price before the market closes | monthly |USD|from 0.434829 to 4168.701172|Numeric Types: float|
 
+</div>
 
-
-### Code
+## Code
 - [Query Ethereum Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Query_Data_Ethereum_Data.ipynb)
 - [Process Regression Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Process_Data_Prepare_X_and_Y_for_Regressions.ipynb)
 - [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
 
-#### Table of Code
+### Table of Code
 | Code files| Description | Type|
 | :---         |     :---:     | ---: |
 | Query_Data_Ethereum_Data.ipynb  | This code deals with the read and preprocessing of the original dataset | .ipynb |
 | Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb |
 | Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb |
 
-### Spotlight
+## More about the Author
+<img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="150" alt="yutong" /><br/>
+- **Self Introduction**: 
+Yutong Quan is a junior student majoring in Political Economy with an Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
+- **Final Reflections**:
+The discussion on applying machine learning methods to solve social science problems can be divided into four parts. The first part is data explanation. We can use a variety of data visualization methods, including histograms and heatmaps, to communicate social science problems to the public more concisely and clearly, which is also convenient for us to conduct further analysis and interpretation. The second part is the data prediction. We input historical data containing X variables and Y variables into the machine and then use supervised machine learning algorithms to learn the data and results, thus figuring out the possibility we successfully predict the true value. Data prediction provides a good tool for us to solve prediction problems in social sciences by traversing a large amount of historical data and looking for internal laws. For example, we can use historical stock prices to predict future stock market movements and provide decision suggestions for investors, companies, and governments. The third part is causal inference. We conduct causal inference when social scientists want to explore the reasons why one variable in a system may affect another. Based on massive data and algorithms, machine learning evaluates the causal effect of each predictor variable on the outcome, making it more convenient to determine the causality. The last part is optimization, which is to find the strategy which maximizes our objectives based on a decision environment of state-action-reward pairs. By using a reinforcement learning algorithm and inputting our objectives, the machine can help to find the best strategy even though the detailed environment may change. The use of machine learning to find optimal solutions is widespread. One example is using artificial intelligence to find the portfolio that achieves the best performance.
+(Reference: [Machine Learning for Social Science: Match the right tool to the job](https://whimsical.com/machine-learning-for-social-science-match-the-right-tool-to-the--8zuA7Bg5bYQPkRgMJCoywA))
+
+
+## Spotlight
 ![image](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/main/spotlight/figures/Linear_Regression_Result.png)
 *Figure 1: The prediction result of ethereum open price by linear regression*
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
