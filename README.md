@@ -45,8 +45,8 @@ Intellectual: contribution. Future work
 ## Data
 
 ### Data Source: 
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Queried_Data)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
+- [Ethereum (ETH-USD) Historical Dataset(Kaggle)](https://www.kaggle.com/datasets/abhimaneukj/ethereum-historical-dataset)
+- [Coin Metrics](https://charts.coinmetrics.io/network-data/)
 
 ### Meta Data Information
 <div class="table-wrapper" markdown="block">
