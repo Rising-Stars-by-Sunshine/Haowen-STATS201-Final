@@ -85,7 +85,8 @@ Intellectual: contribution. Future work
 | Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb |
 
 ## More about the Author
-<img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="150" alt="yutong" /><br/>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/main/spotlight/figures/Haowen.jpg" width="150" alt="Haowen" /><br/>
+
 - **Self Introduction**: 
 Yutong Quan is a junior student majoring in Political Economy with an Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
 - **Final Reflections**:
