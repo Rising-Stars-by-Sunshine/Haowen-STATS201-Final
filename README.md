@@ -108,21 +108,34 @@ Intellectual: contribution. Future work
 
 ## Spotlight
 
+- **Poster**
 ![image](spotlight/figures/figure1_poster.png)
 
-<p align="center">Figure 1: Poster of the final project</p>
+<p align="center">*Figure 1: Poster of the final project*</p>
 
 An illustrated poster in Figure 1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*, *Application Scenario (Data Source)*, *Methodology*,*Results*, and *Intellectual Merits and Practical impacts*. This poster in Figure 1 is created by 
 
+- **Explaination**
+![image](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/spotlight/figures/Explanation.png)
+<p align="center"> Figure 2: The wordcloud of the collected literatures </p>
+- [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Explanation/Haowen_NLP_Explanation.ipynb)
+- [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Explanation)
+- Description: from figure 1, it is obvious that the words NFT, market, prediction appear with a high fequency, which is accored with expectation. However, the word dynamic and trajectory are also high-frequency words. Thus, more researches related to NFT prediction can be conducted in these two aspects in the future.
 
-
-
-
+- **Prediction**
 ![image](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/main/spotlight/figures/Linear_Regression_Result.png)
-*Figure 1: The prediction result of ethereum open price by linear regression*
-- [Code source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
-- [Data source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
+<p align="center"> Figure 3: The prediction result of ethereum open price by linear regression </p>
+- [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
+- [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Prediction)
 - Description: from figure 1, it is obvious that the predicted result is very close to the real open price value. The result is evaluated by R2 score, which is 0.984. The R-squre determines the proportion of variance, which shows how well the data fit the regression mode(Chicco, Warrens, and Jurman 2021). The closer the r-squared value is to 1, the better the fit. Thus, the linear regression reached a high accuracy regarding the r-squared value.
+
+- **Causal Inference**
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure4_causal_event.png)
+
+#### Figure No.4. Causal inference research design.
+- [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
+- [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Prediction)
+- Description: from figure 1, it is obvious that the predicted result is very close to the real open price value. The result is evaluated by R2 score, which is 0.984. The R-squre determines the proportion of variance, which shows how well the data fit the regression mode(Chicco, Warrens, and Jurman 2021). The closer the r-squared value is to 1, the better the fit. Thus, the linear regression reached a high accuracy regarding the r-squared value. Figure No.4. shows the causal inference design for the impact of security incidents in the NFT market on OpenSea's daily trading volume. In 2022, the global NFT market was dismal and a bear market in the crypto market arrived. In June, the global market traded for only $1.04 billion, down 74% MoM from the $4 billion traded in May, marking the largest drop in global NFT trading. ("Marketplaces Archives" 2023). On June 1, Nate Chastain, a former product manager at the world's largest NFT trading platform, OpenSea, was arrested by U.S. law enforcement authorities on charges of wire fraud and money laundering related to insider trading in NFT. (U.S. Attorney's Office 2022). This significant event reflects the widespread security vulnerabilities in the NFT trading market. This study will use the regression discontinuity algorithm to search "How does the major security incident regarding NFT affect the OpenSea daily volumes on Ethereum?" Then, there are two hypothesises based on the research question. Hypothesis one: A major security incident regarding NFT could negatively impact the OpenSea daily volumes on Ethereum. Hypothesis two: A major security incident regarding NFT could increase the decline in OpenSea daily volumes on Ethereum.
 
 ## More about the Author
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/main/spotlight/figures/Haowen.jpg" width="150" alt="Haowen" /><br/>
