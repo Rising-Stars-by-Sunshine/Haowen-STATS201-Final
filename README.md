@@ -167,8 +167,23 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 - [Predicting Price Changes in Ethereum](https://cs229.stanford.edu/proj2017/final-reports/5244039.pdf)
 - [The Coefficient of Determination R-Squared Is More Informative than SMAPE, MAE, MAPE, MSE and RMSE in Regression Analysis Evaluation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8279135/)
 ### Literature
-- Chen, Matthew, Neha Narwal, and Mila Schultz. 2019. “Predicting Price Changes in Ethereum.” *International Journal on Computer Science and Engineering (IJCSE) ISSN*: 0975-3397.
-
-- Chicco, Davide, Matthijs J. Warrens, and Giuseppe Jurman. 2021. “The Coefficient of Determination R-Squared Is More Informative than SMAPE, MAE, MAPE, MSE and RMSE in Regression Analysis Evaluation.” PeerJ Computer Science 7 (July): e623. https://doi.org/10.7717/peerj-cs.623.
-
-- Zhang, Luyao (Sunshine). 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November-. https://ms.pubpub.org/pub/ml-prediction/release/4.
+- Abdillah, Helmy Tsany, and Daniel Hendrawan. 2022. “Jurisdiction of Digital Currency Part of the Commodity Market as Bankruptcy Assets in the Event of Bankruptcy under the Law in Indonesia.” Journal of Administrative and Business Studies 8 (1). https://doi.org/10.20474/jabs-8.1.1.
+- Ah Mand, Abdollah. 2021. “Cryptocurrency Returns and Cryptocurrency Uncertainty: A Time-Frequency Analysis.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3950087.
+- Akbulaev, Nurkhodzha, Ilkin Mammadov, and Mehbube Hemdullayeva. 2020. “Correlation and Regression Analysis of the Relation between Ethereum Price and Both Its Volume and Bitcoin Price.” The Journal of Structured Finance, April, jsf.2020.1.099. https://doi.org/10.3905/jsf.2020.1.099.
+- Aljadani, Abdussalam. 2022. “DLCP2F: A DL-Based Cryptocurrency Price Prediction Framework.” Discover Artificial Intelligence 2 (1). https://doi.org/10.1007/s44163-022-00036-2.
+- Ametrano, Ferdinando M. 2014. “Price Stability Using Cryptocurrency Seigniorage Shares.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2508296.
+- Canh, Nguyen Phuc, Nguyen Quang Binh, and Su Dinh Thanh. 2019. “Cryptocurrencies and Investment Diversification: Empirical Evidence from Seven Largest Cryptocurrencies.” Theoretical Economics Letters 09 (03): 431–52. https://doi.org/10.4236/tel.2019.93031.
+- Devi, S. Sarojini, and Y. Radhika. 2018. “A Survey on Machine Learning and Statistical Techniques in Bankruptcy Prediction.” International Journal of Machine Learning and Computing 8 (2): 133–39. https://doi.org/10.18178/ijmlc.2018.8.2.676.
+- Moreno, Ester Aguayo, and Andres Garcia Medina. 2022. “LSTM-GARCH Hybrid Model for the Prediction of Volatility in Cryptocurrency Portfolios.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4132498.
+- Oyewola, David Opeoluwa, Emmanuel Gbenga Dada, and Juliana Ngozi Ndunagu. 2022. “A Novel Hybrid Walk-Forward Ensemble Optimization for Time Series Cryptocurrency Prediction.” Heliyon 8 (11): e11862. https://doi.org/10.1016/j.heliyon.2022.e11862.
+- Ritchie, Graeme. 1982. “Survey of Natural Language Processing.” ACM SIGART Bulletin, no. 80 (April): 61-ff. https://doi.org/10.1145/1056176.1056184.
+- S, Monish, Mridul Mohta, and Shanta Rangaswamy. 2022a. “ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY.” International Journal of Engineering Applied Sciences and Technology 7 (2): 137–42. https://doi.org/10.33564/ijeast.2022.v07i02.018.———. 2022b. 
+- “ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY.” International Journal of Engineering Applied Sciences and Technology 7 (2): 137–42. https://doi.org/10.33564/ijeast.2022.v07i02.018.
+- Singh, Pawan Kumar, Alok Kumar Pandey, and S. C. Bose. 2022. “A New Grey System Approach to Forecast Closing Price of Bitcoin, Bionic, Cardano, Dogecoin, Ethereum, XRP Cryptocurrencies.” Quality & Quantity, July. https://doi.org/10.1007/s11135-022-01463-0.
+- Stevens, Katrien. 2016. “Regression Discontinuity Designs: An Introduction.” Australian Economic Review 49 (2): 224–33. https://doi.org/10.1111/1467-8462.12162.
+- Toledo, Jefferson de Morais, and Damires Yluska Souza. 2022. “Signal Prediction in Cryptocurrency Tradeoperations: A Machine Learning-Based Approach.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4062476.
+- Tripathi, Manas, and Bhavya Tripathi. 2022. “Predictive Power of an Ensemble Model for Cryptocurrency Forecasting.” The Journal of Prediction Markets 16 (1). https://doi.org/10.5750/jpm.v16i1.1877.
+- Valencia, Franco, Alfonso Gómez-Espinosa, and Benjamín Valdés-Aguirre. 2019. “Price Movement Prediction of Cryptocurrencies Using Sentiment Analysis and Machine Learning.” Entropy 21 (6): 589. https://doi.org/10.3390/e21060589.
+- Vitt, David Christopher. 2013. “Breaking Bitcoin: Does Cryptocurrency Exchange Activity Lead to Increased Real Activity Outside Cryptocurrency Exchanges?” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2371343.
+- Vo, Anh-Dung. 2019. “Sentiment Analysis of News for Effective Cryptocurrency Price Prediction.” International Journal of Knowledge Engineering 5 (2): 47–52. https://doi.org/10.18178/ijke.2019.5.2.116.
+- Zhang, Luyao, Xinshi Ma, and Yulin Liu. 2022. “SoK: Blockchain Decentralization.” ArXiv Preprint ArXiv:2205.04256.
