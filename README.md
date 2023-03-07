@@ -122,7 +122,7 @@
 
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Explanation)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Explanation)
-- Description: from figure 1, the words NFT, market, prediction appear with a high fequency, which is accored with expectation. However, the word dynamic and trajectory are also high-frequency words. Thus, more researches related to NFT prediction can be conducted in these two aspects in the future.
+- Description: This word cloud in Figure 2 is generated from the abstracts of 12 papers related to cryptocurrency price prediction. These literatures are collected by keyword searching in google scholar. It can be inferred that the most popular digital currencies used for this task are “Bitcoin” and “Ethereum”. Besides, “machine” and “learning” are also high-frequency words, which means this method is commonly used for this type of prediction, and the words “time” and “BiLSTM” shows that there is also some interest in time-series forecasting techniques.
 
 ### Prediction
 ![image](spotlight/figures/Prediction.png)
