@@ -69,24 +69,23 @@ Intellectual: contribution. Future work
 
 | File Name  | Variable Name | Description | Frecuency | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Literatures.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/Literatures.csv) | Title  | titles of 12 literatures related to cryptocurrency prediction  | 1  | None  | str  |
-|   | Abstract  | abstract of 15 journals  | 1  | None  | str  |
-| [title_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/title_bigram.csv)  | bigram  | title's bigram  | None  | None  | tuple  |
-|   | 	counts  | counts of each bigram  | None  | None  | int  |
-| [abstract_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/abstract_bigram.csv)  | bigram  | abstract's bigram  | None  | None  | tuple  |
-|   | 	counts  | counts of each bigram  | None  | None  | int  |
-| [queried_data.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Queried_Data/queried_data.csv)  | Date  | 365 day's in 2022  | daily  | a day  | datetime  |
-|   | Daily Volume  | 2022 OpenSea daily volume (Ethereum) in ETH  | None  | eth  | float  |
-| [Regression_Train.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Train.csv)  | volume  | daily volume  | block  | eth  | float  |
-|   | 	volume_past_ma10  | past 10 days' volume  | block  | eth  | float  |
-| [Regression_Test.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Test.csv)  | volume  | daily volume  | block  | eth  | float  |
-|   | 	volume_past_ma10  | past 10 days' volume  | block  | eth  | float  |
-  
-| Date | Represents the date at which the share is traded in the stock market | monthly |day|from 2015-08-07 to 2021-10-20|Object|
-| Open | Represents the opening price of the stock at a particular date, which is the price at which a stock started trading when the opening bell rang | monthly |USD|from 0.431589 to 4174.635742|Numeric Types: float|
-| Close | Represents the closing price of the stock at a particular date, which is the last buy-sell order executed between two traders. The closing price is the raw price, which is just the cash value of the last transacted price before the market closes | monthly |USD|from 0.434829 to 4168.701172|Numeric Types: float|
-
+| [Literatures.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/Literatures.csv) | Title  | The titles of 12 literatures related to cryptocurrency prediction  | 1  | None  | str  |
+|   | Abstract  | The abstracts of 12 literatures related to cryptocurrency prediction  | 1  | None  | str  |
+| [title_bigram.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/title_bigram.csv)  | bigram  | The biagram of titles | None  | None  | tuple  |
+|   | 	counts  | the frequency of occurrence for each bigram  | None  | None  | int  |
+| [abstract_bigram.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/abstract_bigram.csv)  | bigram  | The abstract of abstracts bigram | None  | None  | tuple  |
+|   | 	counts  | the frequency of occurrence for each bigram  | None  | None  | int  |
+| [ETHUSD.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/ETHUSD.csv)  | Date  | The date of the collected data from 2015-08-07 to 2021-10-20 | monthly  |  month  | Object |
+|   | Open | The opening price of the Ethereum | monthly |USD| float|
+|   | Close | The closing price of the Ethereum | monthly |USD| float|
+ | [Ethereum_value.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Ethereum_value.csv)  | Date  | The processed date time from ETHUSD  | monthly  | month  | datetime  |
+| [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Train.csv) | 6-month-ma  | closing price for the past 6 months | month | USD  | float  |
+| [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Test.csv) | 6-month-ma  | closing price for the past 6 months | month | USD  | float  
+ | [Ethereum_Data.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Causal%20Inference/Ethereum_Data.csv) | ETH / USD Denominated Closing Price  | The closing price of Ethereum from 2015-08-07 to 2021-10-20  | month  | USD  | float  |
 </div>
+
+
+
 
 ## Code
 - [Query Ethereum Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Query_Data_Ethereum_Data.ipynb)
