@@ -1,4 +1,4 @@
-# Ethereum Price Prediction and the impact of FTX's bankrupty on the Ethereum Price
+# The Impact of FTX's Bankrupty on the Ethereum Price
 ## General information
 - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -139,6 +139,10 @@
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Causal%20Inference)
 - The results of the regression discontinuity analysis are presented in Figure 4, which shows a clear discontinuity in the Ethereum price following the FTX bankruptcy. This finding suggestes that the FTX bankruptcy had a significant causal effect on the Ethereum price. Furthermore, it indicates a gradual increase in Ethereum price over time after the event, implying that the impact of the FTX bankruptcy is likely to have diminished over time.
+
+### AI Ethics Issues
+- One AI ethics issue is whether the exchange is trusted or not. The algorithms might be manipulated. For example, an exchange could potentially use tricks such as "wash trading" (i.e. buying and selling assets with oneself to create the appearance of market activity) to artificially inflate its perceived trustworthiness. 
+- Another issue is the manipulation of the closing price. If the algorithms used to predict the closing price of a cryptocurrency are based on incomplete or biased data, they may produce inaccurate or manipulated results that could be used to profit from insider trading or other forms of market manipulation. 
 
 ## More about the Author
 
