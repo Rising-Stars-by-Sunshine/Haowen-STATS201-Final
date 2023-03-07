@@ -151,8 +151,10 @@ An illustrated poster in Figure 1. briefly describes the research project. Conte
 </div>
  
 - **Self Introduction**: 
-Yutong Quan is a junior student majoring in Political Economy with an Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
+Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
 - **Final Reflections**:
+
+
 The discussion on applying machine learning methods to solve social science problems can be divided into four parts. The first part is data explanation. We can use a variety of data visualization methods, including histograms and heatmaps, to communicate social science problems to the public more concisely and clearly, which is also convenient for us to conduct further analysis and interpretation. The second part is the data prediction. We input historical data containing X variables and Y variables into the machine and then use supervised machine learning algorithms to learn the data and results, thus figuring out the possibility we successfully predict the true value. Data prediction provides a good tool for us to solve prediction problems in social sciences by traversing a large amount of historical data and looking for internal laws. For example, we can use historical stock prices to predict future stock market movements and provide decision suggestions for investors, companies, and governments. The third part is causal inference. We conduct causal inference when social scientists want to explore the reasons why one variable in a system may affect another. Based on massive data and algorithms, machine learning evaluates the causal effect of each predictor variable on the outcome, making it more convenient to determine the causality. The last part is optimization, which is to find the strategy which maximizes our objectives based on a decision environment of state-action-reward pairs. By using a reinforcement learning algorithm and inputting our objectives, the machine can help to find the best strategy even though the detailed environment may change. The use of machine learning to find optimal solutions is widespread. One example is using artificial intelligence to find the portfolio that achieves the best performance.
 (Reference: [Machine Learning for Social Science: Match the right tool to the job](https://whimsical.com/machine-learning-for-social-science-match-the-right-tool-to-the--8zuA7Bg5bYQPkRgMJCoywA))
 
@@ -163,8 +165,11 @@ The discussion on applying machine learning methods to solve social science prob
 
 ### Data Source
 - [Ethereum Historical Dataset](https://www.kaggle.com/datasets/abhimaneukj/ethereum-historical-dataset)
+- [Coin Metrics](https://charts.coinmetrics.io/network-data/)
 ### Code Source
+- [design-principle-blockchain/code](https://github.com/sunshineluyao/design-principle-blockchain)
 - [Rising-Stars-by-Sunshine/stats201-tutorial-prediction](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
+- [Regression_Discontinuity](https://colab.research.google.com/drive/11H4VxW9d3aCrsJ9zE7acfxh76YGQPas7?usp=sharing)
 ### Articles
 - [Predicting Price Changes in Ethereum](https://cs229.stanford.edu/proj2017/final-reports/5244039.pdf)
 - [The Coefficient of Determination R-Squared Is More Informative than SMAPE, MAE, MAPE, MSE and RMSE in Regression Analysis Evaluation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8279135/)
