@@ -107,6 +107,19 @@ Intellectual: contribution. Future work
  </div>
 
 ## Spotlight
+
+![image](spotlight/figures/figure1_poster.png)
+
+<p align="center">Figure 1: Poster of the final project</p>
+
+An illustrated poster in Figure 1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*, *Application Scenario (Data Source)*, *Methodology*,*Results*, and *Intellectual Merits and Practical impacts*.
+
+*The poster in Figure 1 is created by *
+
+
+
+
+
 ![image](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/main/spotlight/figures/Linear_Regression_Result.png)
 *Figure 1: The prediction result of ethereum open price by linear regression*
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
