@@ -114,7 +114,7 @@ Intellectual: contribution. Future work
 ## Spotlight
 
 ### Poster
-![image](spotlight/figures/figure1_poster.png)
+![image](spotlight/poster/poster_new.png)
 
 <p align="center">*Figure 1: Poster of the final project*</p>
 
