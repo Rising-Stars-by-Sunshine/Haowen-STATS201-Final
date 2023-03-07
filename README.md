@@ -112,9 +112,9 @@
 ### Poster
 ![image](spotlight/poster/poster_new.png)
 
-<p align="center">*Figure 1: Poster of the final project*</p>
+<p align="center">Figure 1: Poster of the final project</p>
 
-- An illustrated poster in Figure 1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*, *Application Scenario (Data Source)*, *Methodology*,*Results*, and *Intellectual Merits and Practical impacts*. This poster in Figure 1 is created by 
+- The final version of the poster is shown in Figure 1. This poster gives an overview of the casual inference research. This poster is created by [Canva](https://www.canva.com/)
 
 ### Explaination
 ![image](spotlight/figures/Explanation.png)
