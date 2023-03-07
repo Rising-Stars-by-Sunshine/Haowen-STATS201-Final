@@ -147,7 +147,7 @@ An illustrated poster in Figure 1. briefly describes the research project. Conte
 ## More about the Author
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/main/spotlight/figures/Haowen.jpg" width="180" alt="Haowen" /><br/>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/main/spotlight/figures/Haowen.jpg" width="230" alt="Haowen" /><br/>
 </div>
  
 - **Self Introduction**: 
