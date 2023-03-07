@@ -11,7 +11,7 @@
 * Research Question: What are the hot topics in the cryptocurrency price prediction field?
 * Application Scenario: This project is applied to 12 papers related to the cryptocurrency price prediction. These literatures are collected by keyword searching in [google scholar](https://scholar.google.com/), and their titles and abstracts are used for the natural language processing (Ritchie 1982) task.
 * Methodology: The machine learning methodology explanation is used in this project, especially, word cload and bigram are used for text analysis. 
-* Results: The results shows some new high-frequency words and new relationship of keywords. 
+* Results: The word cloud shows that when it comes to predicting cryptocurrency prices, the most popular digital currencies used for this task are Bitcoin and Ethereum. Additionally, we noticed that machine learning methods are commonly used for this type of prediction, and there is a lot of interest in time-series forecasting techniques. Overall, these findings suggest that those looking to predict cryptocurrency prices should focus on these two currencies and consider utilizing machine learning and time-series analysis techniques.
 * Intellectual Merit & Practical Impacts: The study contributes to the transparency and interpretability of cryptocurrency price prediction tasks. The study's results and implications can inform the development of more effective cryptocurrency price prediction models, ultimately assisting investors in making informed decisions in a volatile market. For future work, more literature can be collected to generate more robust results and more sophisticated explanation models that integrate both quantitative and qualitative data can be developed to enhance the transparency and interpretability of cryptocurrency price prediction models.
 
 **2. Preidcation project:** 
@@ -19,7 +19,7 @@
 * Research Qeustion: Thus, this project focuses on the research question that how effetive is machine learning algorithmns in predicting Etherem open price. 
 * Application Senerios: This project is applied to the Ethereum opening price from 2015 to 2021. The machine learning methodology prediction is used in this project. 
 * Methodology: The machine learning methodology explanation is used in this project. Natural language processing is applied to extract the text information, then word cloud and bigram are used for text analysis. 
-* Results: The word cloud shows that when it comes to predicting cryptocurrency prices, the most popular digital currencies used for this task are Bitcoin and Ethereum. Additionally, we noticed that machine learning methods are commonly used for this type of prediction, and there is a lot of interest in time-series forecasting techniques. Overall, these findings suggest that those looking to predict cryptocurrency prices should focus on these two currencies and consider utilizing machine learning and time-series analysis techniques.
+* Results: 
 * Intellectual Merit & Practical Impacts: This project contributes to the times series data prediction, especially in the Ethereum value prediction. More researches on more kinds of machine learning models and more features related to the price prediction can be conducted in the future.
 
 **3. Casual inference project:** 
