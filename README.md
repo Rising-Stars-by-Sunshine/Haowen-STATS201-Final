@@ -130,7 +130,7 @@
 
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Prediction)
-- Description: Description of prediction: Figure 3 is the prediction result of the Ethereum closing price. The x-axis represents the date, which ranges from 2015/8/7 to 2021/10/20. The y-axis is the closing price of Ethereum. The data was split in 3:2 in this task. The red curve in the figure is the training data. The purple curve is the prediction price by linear regression. It is very close to the actual data (the blue curve). Linear regression reached a good performance in predicting Ethereum’s closing price, with an R2 score of 0.985.
+- Description: Figure 3 is the prediction result of the Ethereum closing price. The x-axis represents the date, which ranges from 2015/8/7 to 2021/10/20. The y-axis is the closing price of Ethereum. The data was split in 3:2 in this task. The red curve in the figure is the training data. The purple curve is the prediction price by linear regression. It is very close to the actual data (the blue curve). Linear regression reached a good performance in predicting Ethereum’s closing price, with an R2 score of 0.985.
 
 ### Causal Inference
 ![image](spotlight/figures/Causal-Inference.png)
@@ -138,7 +138,7 @@
 
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Causal%20Inference)
-- The results of the regression discontinuity analysis are presented in Figure 4, which shows a clear discontinuity in the Ethereum price following the FTX bankruptcy. This finding suggestes that the FTX bankruptcy had a significant causal effect on the Ethereum price. Furthermore, it indicates a gradual increase in Ethereum price over time after the event, implying that the impact of the FTX bankruptcy is likely to have diminished over time.
+- Description: The results of the regression discontinuity analysis are presented in Figure 4, which shows a clear discontinuity in the Ethereum price following the FTX bankruptcy. This finding suggestes that the FTX bankruptcy had a significant causal effect on the Ethereum price. Furthermore, it indicates a gradual increase in Ethereum price over time after the event, implying that the impact of the FTX bankruptcy is likely to have diminished over time.
 
 ### AI Ethics Issues
 - One AI ethics issue is whether the exchange is trusted or not. The algorithms might be manipulated. For example, an exchange could potentially use tricks such as "wash trading" (i.e. buying and selling assets with oneself to create the appearance of market activity) to artificially inflate its perceived trustworthiness. 
