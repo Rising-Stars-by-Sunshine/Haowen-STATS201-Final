@@ -96,13 +96,14 @@ Intellectual: contribution. Future work
 
 ### Table of Code
 <div class="table-wrapper" markdown="block">
-| Code files| Description | Type|
-| :---         |     :---:     | ---: |
-| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb |
-| Query_Data_Ethereum_Data.ipynb  | This code deals with the read and preprocessing of the original dataset | .ipynb |
-| Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb |
-| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb |
-| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb |
+ 
+| Code files| Description | Type| Task| Emoji|
+| :---         |     :---     | :--- | :---| :---:|
+| [Haowen_NLP_Explanation.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Explanation/Haowen_NLP_Explanation.ipynb) | This code applied machine learning method for open price regression| .ipynb | Explanation| :page_with_curl:|
+| Query_Ethereum_Data.ipynb  | This code deals with the read and preprocessing of the original dataset | .ipynb | Prediction | :moneybag: |
+| Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb | Prediction| :tada:| 
+| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb | Prediction |:chart_with_upwards_trend:|
+| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb | Causal Inference| :paperclip: |
  </div>
 
 ## Spotlight
