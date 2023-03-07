@@ -72,9 +72,9 @@ Intellectual: contribution. Future work
 | [Literatures.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/Literatures.csv) | Title  | The titles of 12 literatures related to cryptocurrency prediction  | 1  | None  | str  |
 |   | Abstract  | The abstracts of 12 literatures related to cryptocurrency prediction  | 1  | None  | str  |
 | [title_bigram.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/title_bigram.csv)  | bigram  | The biagram of titles | None  | None  | tuple  |
-|   | 	counts  | the frequency of occurrence for each bigram  | None  | None  | int  |
+|   | 	counts  | The frequency of occurrence for each bigram  | None  | None  | int  |
 | [abstract_bigram.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/abstract_bigram.csv)  | bigram  | The abstract of abstracts bigram | None  | None  | tuple  |
-|   | 	counts  | the frequency of occurrence for each bigram  | None  | None  | int  |
+|   | 	counts  | The frequency of occurrence for each bigram  | None  | None  | int  |
 | [ETHUSD.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/ETHUSD.csv)  | Date  | The date of the collected data from 2015-08-07 to 2021-10-20 | monthly  |  month  | Object |
 |   | Open | The opening price of the Ethereum | monthly |USD| float|
 |   | Close | The closing price of the Ethereum | monthly |USD| float|
