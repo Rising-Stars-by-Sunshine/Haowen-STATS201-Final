@@ -113,30 +113,33 @@ Intellectual: contribution. Future work
 
 ## Spotlight
 
-- **Poster**
+### Poster
 ![image](spotlight/figures/figure1_poster.png)
 
 <p align="center">*Figure 1: Poster of the final project*</p>
 
 An illustrated poster in Figure 1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*, *Application Scenario (Data Source)*, *Methodology*,*Results*, and *Intellectual Merits and Practical impacts*. This poster in Figure 1 is created by 
 
-- **Explaination**
+### Explaination
 ![image](spotlight/figures/Explanation.png)
 <p align="center"> Figure 2: The wordcloud of the collected literatures </p>
+
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Explanation/Haowen_NLP_Explanation.ipynb)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Explanation)
-- Description: from figure 1, it is obvious that the words NFT, market, prediction appear with a high fequency, which is accored with expectation. However, the word dynamic and trajectory are also high-frequency words. Thus, more researches related to NFT prediction can be conducted in these two aspects in the future.
+- Description: from figure 1, the words NFT, market, prediction appear with a high fequency, which is accored with expectation. However, the word dynamic and trajectory are also high-frequency words. Thus, more researches related to NFT prediction can be conducted in these two aspects in the future.
 
-- **Prediction**
+### Prediction
 ![image](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/main/spotlight/figures/Linear_Regression_Result.png)
 <p align="center"> Figure 3: The prediction result of ethereum open price by linear regression </p>
+
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Prediction)
 - Description: from figure 1, it is obvious that the predicted result is very close to the real open price value. The result is evaluated by R2 score, which is 0.984. The R-squre determines the proportion of variance, which shows how well the data fit the regression mode(Chicco, Warrens, and Jurman 2021). The closer the r-squared value is to 1, the better the fit. Thus, the linear regression reached a high accuracy regarding the r-squared value.
 
-- **Causal Inference**
+### Causal Inference
 ![image](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/main/spotlight/figures/Linear_Regression_Result.png)
 <p align="center"> Figure 3: The prediction result of ethereum open price by linear regression </p>
+
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Prediction)
 - Description: from figure 1, it is obvious that the predicted result is very close to the real open price value. The result is evaluated by R2 score, which is 0.984. The R-squre determines the proportion of variance, which shows how well the data fit the regression mode(Chicco, Warrens, and Jurman 2021). The closer the r-squared value is to 1, the better the fit. Thus, the linear regression reached a high accuracy regarding the r-squared value.
