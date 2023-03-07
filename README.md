@@ -130,7 +130,7 @@
 
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Prediction)
-- Description: from figure 1, it is obvious that the predicted result is very close to the real open price value. The result is evaluated by R2 score, which is 0.984. The R-squre determines the proportion of variance, which shows how well the data fit the regression mode(Chicco, Warrens, and Jurman 2021). The closer the r-squared value is to 1, the better the fit. Thus, the linear regression reached a high accuracy regarding the r-squared value.
+- Description: Description of prediction: Figure 3 is the prediction result of the Ethereum closing price. The x-axis represents the date, which ranges from 2015/8/7 to 2021/10/20. The y-axis is the closing price of Ethereum. The data was split in 3:2 in this task. The red curve in the figure is the training data. The purple curve is the prediction price by linear regression. It is very close to the actual data (the blue curve). Linear regression reached a good performance in predicting Ethereum’s closing price, with an R2 score of 0.985.
 
 ### Causal Inference
 ![image](spotlight/figures/Causal-Inference.png)
