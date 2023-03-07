@@ -100,10 +100,10 @@ Intellectual: contribution. Future work
 | Code files| Description | Type| Task| Emoji|
 | :---         |     :---     | :--- | :---| :---:|
 | [Haowen_NLP_Explanation.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Explanation/Haowen_NLP_Explanation.ipynb) | This code applied machine learning method for open price regression| .ipynb | Explanation| :page_with_curl:|
-| Query_Ethereum_Data.ipynb  | This code deals with the read and preprocessing of the original dataset | .ipynb | Prediction | :moneybag: |
-| Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb | Prediction| :tada:| 
-| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb | Prediction |:chart_with_upwards_trend:|
-| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb | Causal Inference| :paperclip: |
+| [Query_Ethereum_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Query_Ethereum_Data.ipynb)  | This code deals with the read and preprocessing of the original dataset | .ipynb | Prediction | :moneybag: |
+| [Process_Data_Prepare_X_and_Y_for_Regressions.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Process_Data_Prepare_X_and_Y_for_Regressions.ipynb) | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb | Prediction| :tada:| 
+| [Analyze_Data_Machine_Learning_for_Predicting.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Analyze_Data_Machine_Learning_for_Predicting.ipynb) | This code applied machine learning method for open price regression| .ipynb | Prediction |:chart_with_upwards_trend:|
+| [Analyze_Data_Machine_Learning_for_Predicting.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference/Regression_Discontinuity.ipynb) | This code applied machine learning method for open price regression| .ipynb | Causal Inference| :paperclip: |
  </div>
 
 ## Spotlight
