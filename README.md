@@ -84,6 +84,7 @@ Intellectual: contribution. Future work
 | [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Train.csv) | 6-month-ma  | The mean value of the closing price for the past 6 months | monthly | USD  | float  |
 | [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Test.csv) | 6-month-ma  | The mean value of the closing price for the past 6 months | monthly | USD  | float  
  | [Ethereum_Data.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Causal%20Inference/Ethereum_Data.csv) | ETH / USD Denominated Closing Price  | The closing price of Ethereum from 2015-08-07 to 2021-10-20  | monthly  | USD  | float  |
+
 </div>
 
 
@@ -107,6 +108,7 @@ Intellectual: contribution. Future work
 | [Process_Data_Prepare_X_and_Y_for_Regressions.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Process_Data_Prepare_X_and_Y_for_Regressions.ipynb) | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb | Prediction| :tada:| 
 | [Analyze_Data_Machine_Learning_for_Predicting.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Analyze_Data_Machine_Learning_for_Predicting.ipynb) | This code applied machine learning method for open price regression| .ipynb | Prediction |:chart_with_upwards_trend:|
 | [Analyze_Data_Machine_Learning_for_Predicting.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference/Regression_Discontinuity.ipynb) | This code applied machine learning method for open price regression| .ipynb | Causal Inference| :paperclip: |
+ 
  </div>
 
 ## Spotlight
