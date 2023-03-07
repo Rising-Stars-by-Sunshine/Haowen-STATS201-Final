@@ -49,6 +49,7 @@ Intellectual: contribution. Future work
 - [Coin Metrics](https://charts.coinmetrics.io/network-data/)
 
 ### Meta Data Information
+
 <div class="table-wrapper" markdown="block">
 
 | Data files| Data Content | Type|
@@ -65,6 +66,7 @@ Intellectual: contribution. Future work
 </div>
 
 ### Data Dictionary
+
 <div class="table-wrapper" markdown="block">
 
 | File Name  | Variable Name | Description | Frecuency | Unit | Type |
@@ -95,6 +97,7 @@ Intellectual: contribution. Future work
 - [Process and Analyze Data for Causal Inference](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference/Regression_Discontinuity.ipynb)
 
 ### Table of Code
+
 <div class="table-wrapper" markdown="block">
  
 | Code files| Description | Type| Task| Emoji|
