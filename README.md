@@ -38,6 +38,14 @@
 - [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author)
 - [References](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references) 
 
+| Section | Description |
+| ------------- | ------------- | 
+| [Data](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#data) |  |
+| [Code](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#code) |  | 
+| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#spotlight) |  The abstract biagram for the literatures collected |
+| [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author) | Ethereum historical data from 2015 to 2021 |
+| [References](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references)  | Ethereum data after preprocessing |
+
 ## Data
 
 ### Data Source: 
