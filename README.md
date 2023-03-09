@@ -1,4 +1,4 @@
-# The Impact of FTX's Bankrupty on the Ethereum Price
+# The Impact of FTX's Bankruptcy on the Ethereum Price
 ## General information
 - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
