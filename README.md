@@ -161,9 +161,9 @@
 - **Self Introduction**: 
 Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
 - **Final Reflections**:
-  - Intellectual Growth
-  - Professional Growth
-  - Living a Purposeful Life
+  - Intellectual Growth: During this course, I grow intellectually in my understanding of the benefits of using machine learning to tackle complex social and economic issues. One of the key lessons from this course has been the importance of interdisciplinary research with peers. With the diverse perspectives and approaches brought by classmates, more effective and impactful solutions were generated.
+  - Professional Growth: Throughout this course, I have a great professional growth by acquiring a combination of skills and creating a professional profile that showcases my capabilities. Specifically, I have learned about cryptocurrencies, GitHub settings, academic writing, and the application of machine learning in the crypto market, which are valuable skills in today's digital economy.
+  - Living a Purposeful Life: I could focus on using machine learning and causal inference techniques to develop new blockchain-based applications that can help mitigate risks and improve the stability of cryptocurrency markets. This may contribute to the future development of the cryptocurrency market, and make it the most popular market for trading. At that time, I would say that hoped everyone can join the innovation and development of new types of markets. I think for the contribution, my role is to provide accessible information and education about cryptocurrencies, as they have the potential to revolutionize the way we exchange value and conduct financial transactions.
 
 
 ## References
@@ -185,13 +185,14 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 - Aljadani, Abdussalam. 2022. “DLCP2F: A DL-Based Cryptocurrency Price Prediction Framework.” Discover Artificial Intelligence 2 (1). https://doi.org/10.1007/s44163-022-00036-2.
 - Ametrano, Ferdinando M. 2014. “Price Stability Using Cryptocurrency Seigniorage Shares.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2508296.
 - Canh, Nguyen Phuc, Nguyen Quang Binh, and Su Dinh Thanh. 2019. “Cryptocurrencies and Investment Diversification: Empirical Evidence from Seven Largest Cryptocurrencies.” Theoretical Economics Letters 09 (03): 431–52. https://doi.org/10.4236/tel.2019.93031.
+- Chohan, Usman. 2018. “The Problems of Cryptocurrency Thefts and Exchange Shutdowns.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3131702.
 - Devi, S. Sarojini, and Y. Radhika. 2018. “A Survey on Machine Learning and Statistical Techniques in Bankruptcy Prediction.” International Journal of Machine Learning and Computing 8 (2): 133–39. https://doi.org/10.18178/ijmlc.2018.8.2.676.
 - Lee, Sang Hong, Michael E Goddard, Naomi R Wray, and Peter M Visscher. 2012. “A Better Coefficient of Determination for Genetic Profile Analysis.” Genetic Epidemiology 36 (3): 214–24. https://doi.org/10.1002/gepi.21614.
+- Mohta, Mridul, Shanta Rangaswamy, and Monish S. 2022. “ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY.” International Journal of Engineering Applied Sciences and Technology 7 (2): 137–42. https://doi.org/10.33564/ijeast.2022.v07i02.018.
 - Moreno, Ester Aguayo, and Andres Garcia Medina. 2022. “LSTM-GARCH Hybrid Model for the Prediction of Volatility in Cryptocurrency Portfolios.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4132498.
 - Oyewola, David Opeoluwa, Emmanuel Gbenga Dada, and Juliana Ngozi Ndunagu. 2022. “A Novel Hybrid Walk-Forward Ensemble Optimization for Time Series Cryptocurrency Prediction.” Heliyon 8 (11): e11862. https://doi.org/10.1016/j.heliyon.2022.e11862.
 - Ritchie, Graeme. 1982. “Survey of Natural Language Processing.” ACM SIGART Bulletin, no. 80 (April): 61-ff. https://doi.org/10.1145/1056176.1056184.
-- S, Monish, Mridul Mohta, and Shanta Rangaswamy. 2022a. “ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY.” International Journal of Engineering Applied Sciences and Technology 7 (2): 137–42. https://doi.org/10.33564/ijeast.2022.v07i02.018. 
-- 2022b. “ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY.” International Journal of Engineering Applied Sciences and Technology 7 (2): 137–42. https://doi.org/10.33564/ijeast.2022.v07i02.018.
+- S, Monish, Mridul Mohta, and Shanta Rangaswamy. 2022. “ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY.” International Journal of Engineering Applied Sciences and Technology 7 (2): 137–42. https://doi.org/10.33564/ijeast.2022.v07i02.018.
 - Singh, Pawan Kumar, Alok Kumar Pandey, and S. C. Bose. 2022. “A New Grey System Approach to Forecast Closing Price of Bitcoin, Bionic, Cardano, Dogecoin, Ethereum, XRP Cryptocurrencies.” Quality & Quantity, July. https://doi.org/10.1007/s11135-022-01463-0.
 - Stevens, Katrien. 2016. “Regression Discontinuity Designs: An Introduction.” Australian Economic Review 49 (2): 224–33. https://doi.org/10.1111/1467-8462.12162.
 - Toledo, Jefferson de Morais, and Damires Yluska Souza. 2022. “Signal Prediction in Cryptocurrency Tradeoperations: A Machine Learning-Based Approach.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4062476.
