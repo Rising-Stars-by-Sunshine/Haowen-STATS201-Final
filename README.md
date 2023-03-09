@@ -99,11 +99,11 @@
  
 | Code files| Description | Type| Task| Emoji|
 | :---         |     :---     | :--- | :---| :---:|
-| [Haowen_NLP_Explanation.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Explanation/Haowen_NLP_Explanation.ipynb) | This code applied machine learning method for open price regression| .ipynb | Explanation| :page_with_curl:|
+| [Haowen_NLP_Explanation.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Explanation/Haowen_NLP_Explanation.ipynb) | This code uses the NLP method to generate word cloud and bigram | .ipynb | Explanation| :page_with_curl:|
 | [Query_Ethereum_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Query_Ethereum_Data.ipynb)  | This code deals with the read and preprocessing of the original dataset | .ipynb | Prediction | :moneybag: |
 | [Process_Data_Prepare_X_and_Y_for_Regressions.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Process_Data_Prepare_X_and_Y_for_Regressions.ipynb) | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb | Prediction| :tada: | 
 | [Analyze_Data_Machine_Learning_for_Predicting.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction/Analyze_Data_Machine_Learning_for_Predicting.ipynb) | This code applied machine learning method for open price regression| .ipynb | Prediction | :chart_with_upwards_trend: |
-| [Analyze_Data_Machine_Learning_for_Predicting.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference/Regression_Discontinuity.ipynb) | This code applied machine learning method for open price regression| .ipynb | Causal Inference| :paperclip: |
+| [Analyze_Data_Machine_Learning_for_Predicting.ipynb](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference/Regression_Discontinuity.ipynb) | This code applied the regression discontinuity method | .ipynb | Causal Inference| :paperclip: |
  
  </div>
 
@@ -114,7 +114,8 @@
 
 <p align="center">Figure 1: Poster of the final project</p>
 
-- The final version of the poster is shown in Figure 1. This poster gives an overview of the casual inference research. It contains This poster is created by [Canva](https://www.canva.com/)
+- The final version of the poster is shown in Figure 1. This poster gives an overview of the casual inference research. It contains 
+- This poster is created by [Canva](https://www.canva.com/)
 
 ### Explaination
 ![image](spotlight/figures/Explanation.png)
@@ -130,7 +131,7 @@
 
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Prediction)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Prediction)
-- Description: Figure 3 is the prediction result of the Ethereum closing price. The x-axis represents the date, which ranges from 2015/8/7 to 2021/10/20. The y-axis is the closing price of Ethereum. The data was split in 3:2 in this task. The red curve in the figure is the training data. The purple curve is the prediction price by linear regression. It is very close to the actual data (the blue curve). Linear regression reached a good performance in predicting Ethereum’s closing price, with an R2 score of 0.985.
+- Description: Figure 3 is the [linear regression](https://scikit-learn.org/stable/modules/linear_model.html)  prediction result of the Ethereum closing price. The x-axis represents the date, which ranges from 2015/8/7 to 2021/10/20. The y-axis is the closing price of Ethereum. The data was split in 3:2 in this task. The red curve in the figure is the training data. The purple curve is the prediction price by linear regression. It is very close to the actual data (the blue curve). Linear regression reached a good performance in predicting Ethereum’s closing price, with an R2 score of 0.985.
 
 ### Causal Inference
 ![image](spotlight/figures/Causal-Inference.png)
