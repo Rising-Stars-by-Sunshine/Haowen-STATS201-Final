@@ -32,19 +32,18 @@
 
 ## Table of Contents
 
-- [Data](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#spotlight)
-- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author)
-- [References](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references) 
+<div class="table-wrapper" markdown="block">
+
 
 | Section | Description |
 | ------------- | ------------- | 
-| [Data](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#data) |  |
-| [Code](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#code) |  | 
-| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#spotlight) |  The abstract biagram for the literatures collected |
-| [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author) | Ethereum historical data from 2015 to 2021 |
-| [References](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references)  | Ethereum data after preprocessing |
+| [Data](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#data) | The data section of the three projects |
+| [Code](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#code) | The code section of the three projects | 
+| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#spotlight) |  Some spotlights of the three projects |
+| [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#more-about-the-author) | More information about the author |
+| [References](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final#references)  | References used in these projects |
+ 
+</div>
 
 ## Data
 
