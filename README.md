@@ -114,7 +114,7 @@
 
 <p align="center">Figure 1: Poster of the final project</p>
 
-- The final version of the poster is shown in Figure 1. This poster gives an overview of the casual inference research. It contains 
+- The final version of the poster is shown in Figure 1. This poster gives an overview of causal inference research. It contains six sections: *Introduction*, *Research Question*, *Data*, *Methodology*, *Results*, *Intellectual Metrics and Implication*  
 - This poster is created by [Canva](https://www.canva.com/)
 
 ### Explaination
