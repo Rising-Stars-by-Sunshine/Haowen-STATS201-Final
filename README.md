@@ -188,6 +188,15 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 - [ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY](https://doi.org/10.33564/ijeast.2022.v07i02.018)
 - [LSTM-GARCH Hybrid Model for the Prediction of Volatility in Cryptocurrency Portfolios](https://doi.org/10.2139/ssrn.4132498)
 - [A Novel Hybrid Walk-Forward Ensemble Optimization for Time Series Cryptocurrency Prediction](https://doi.org/10.1016/j.heliyon.2022.e11862)
+- [Survey of Natural Language Processing](https://doi.org/10.1145/1056176.1056184)
+- [A New Grey System Approach to Forecast Closing Price of Bitcoin, Bionic, Cardano, Dogecoin, Ethereum, XRP Cryptocurrencies](https://doi.org/10.1007/s11135-022-01463-0)
+- [Regression Discontinuity Designs: An Introduction](https://doi.org/10.1111/1467-8462.12162)
+- [Signal Prediction in Cryptocurrency Tradeoperations: A Machine Learning-Based Approach](https://doi.org/10.2139/ssrn.4062476)
+- [Predictive Power of an Ensemble Model for Cryptocurrency Forecasting](https://doi.org/10.5750/jpm.v16i1.1877)
+- [Price Movement Prediction of Cryptocurrencies Using Sentiment Analysis and Machine Learning](https://doi.org/10.3390/e21060589)
+- [Breaking Bitcoin: Does Cryptocurrency Exchange Activity Lead to Increased Real Activity Outside Cryptocurrency Exchanges?](https://doi.org/10.2139/ssrn.2371343)
+- [Sentiment Analysis of News for Effective Cryptocurrency Price Prediction](https://doi.org/10.18178/ijke.2019.5.2.116)
+- [SoK: Blockchain Decentralization](https://arxiv.org/abs/2205.04256)
 
 
 
@@ -207,7 +216,6 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 - Moreno, Ester Aguayo, and Andres Garcia Medina. 2022. “LSTM-GARCH Hybrid Model for the Prediction of Volatility in Cryptocurrency Portfolios.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4132498.
 - Oyewola, David Opeoluwa, Emmanuel Gbenga Dada, and Juliana Ngozi Ndunagu. 2022. “A Novel Hybrid Walk-Forward Ensemble Optimization for Time Series Cryptocurrency Prediction.” Heliyon 8 (11): e11862. https://doi.org/10.1016/j.heliyon.2022.e11862.
 - Ritchie, Graeme. 1982. “Survey of Natural Language Processing.” ACM SIGART Bulletin, no. 80 (April): 61-ff. https://doi.org/10.1145/1056176.1056184.
-- S, Monish, Mridul Mohta, and Shanta Rangaswamy. 2022. “ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY.” International Journal of Engineering Applied Sciences and Technology 7 (2): 137–42. https://doi.org/10.33564/ijeast.2022.v07i02.018.
 - Singh, Pawan Kumar, Alok Kumar Pandey, and S. C. Bose. 2022. “A New Grey System Approach to Forecast Closing Price of Bitcoin, Bionic, Cardano, Dogecoin, Ethereum, XRP Cryptocurrencies.” Quality & Quantity, July. https://doi.org/10.1007/s11135-022-01463-0.
 - Stevens, Katrien. 2016. “Regression Discontinuity Designs: An Introduction.” Australian Economic Review 49 (2): 224–33. https://doi.org/10.1111/1467-8462.12162.
 - Toledo, Jefferson de Morais, and Damires Yluska Souza. 2022. “Signal Prediction in Cryptocurrency Tradeoperations: A Machine Learning-Based Approach.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4062476.
