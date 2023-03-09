@@ -176,8 +176,23 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 - [Rising-Stars-by-Sunshine/stats201-tutorial-prediction](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 - [Regression_Discontinuity](https://colab.research.google.com/drive/11H4VxW9d3aCrsJ9zE7acfxh76YGQPas7?usp=sharing)
 ### Articles
-- [Predicting Price Changes in Ethereum](https://cs229.stanford.edu/proj2017/final-reports/5244039.pdf)
-- [The Coefficient of Determination R-Squared Is More Informative than SMAPE, MAE, MAPE, MSE and RMSE in Regression Analysis Evaluation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8279135/)
+- [Jurisdiction of Digital Currency Part of the Commodity Market as Bankruptcy Assets in the Event of Bankruptcy under the Law in Indonesia](https://doi.org/10.20474/jabs-8.1.1)
+- [Cryptocurrency Returns and Cryptocurrency Uncertainty: A Time-Frequency Analysis](https://doi.org/10.2139/ssrn.3950087)
+- [Correlation and Regression Analysis of the Relation between Ethereum Price and Both Its Volume and Bitcoin Price](https://doi.org/10.3905/jsf.2020.1.099)
+- [DLCP2F: A DL-Based Cryptocurrency Price Prediction Framework](https://doi.org/10.1007/s44163-022-00036-2)
+- [Price Stability Using Cryptocurrency Seigniorage Shares](https://doi.org/10.2139/ssrn.2508296)
+- [Cryptocurrencies and Investment Diversification: Empirical Evidence from Seven Largest Cryptocurrencies](https://doi.org/10.4236/tel.2019.93031)
+- [The Problems of Cryptocurrency Thefts and Exchange Shutdowns](https://doi.org/10.2139/ssrn.3131702)
+- [A Survey on Machine Learning and Statistical Techniques in Bankruptcy Prediction](https://doi.org/10.18178/ijmlc.2018.8.2.676)
+- [A Better Coefficient of Determination for Genetic Profile Analysis](https://doi.org/10.1002/gepi.21614)
+- [ETHEREUM PRICE PREDICTION USING MACHINE LEARNING TECHNIQUES – a COMPARATIVE STUDY](https://doi.org/10.33564/ijeast.2022.v07i02.018)
+- [LSTM-GARCH Hybrid Model for the Prediction of Volatility in Cryptocurrency Portfolios](https://doi.org/10.2139/ssrn.4132498)
+- [A Novel Hybrid Walk-Forward Ensemble Optimization for Time Series Cryptocurrency Prediction](https://doi.org/10.1016/j.heliyon.2022.e11862)
+
+
+
+
+
 ### Literature
 - Abdillah, Helmy Tsany, and Daniel Hendrawan. 2022. “Jurisdiction of Digital Currency Part of the Commodity Market as Bankruptcy Assets in the Event of Bankruptcy under the Law in Indonesia.” Journal of Administrative and Business Studies 8 (1). https://doi.org/10.20474/jabs-8.1.1.
 - Ah Mand, Abdollah. 2021. “Cryptocurrency Returns and Cryptocurrency Uncertainty: A Time-Frequency Analysis.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3950087.
