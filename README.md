@@ -80,13 +80,13 @@
 |   | 	counts  | The frequency of occurrence for each bigram  | None  | None  | int  |
 | [abstract_bigram.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Explanation/abstract_bigram.csv)  | bigram  | The abstract of abstracts bigram | None  | None  | tuple  |
 |   | 	counts  | The frequency of occurrence for each bigram  | None  | None  | int  |
-| [ETHUSD.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/ETHUSD.csv)  | Date  | The date of the collected data from 2015-08-07 to 2021-10-20 | monthly  |  month  | Object |
-|   | Open | The opening price of the Ethereum | monthly |USD| float|
-|   | Close | The closing price of the Ethereum | monthly |USD| float|
- | [Ethereum_value.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Ethereum_value.csv)  | Date  | The processed date time from ETHUSD  | monthly  | month  | datetime  |
-| [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Train.csv) | 6-month-ma  | The mean value of the closing price for the past 6 months | monthly | USD  | float  |
-| [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Test.csv) | 6-month-ma  | The mean value of the closing price for the past 6 months | monthly | USD  | float  
- | [Ethereum_Data.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Causal%20Inference/Ethereum_Data.csv) | ETH / USD Denominated Closing Price  | The closing price of Ethereum from 2015-08-07 to 2021-10-20  | monthly  | USD  | float  |
+| [ETHUSD.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/ETHUSD.csv)  | Date  | The date of the collected data from 2015-08-07 to 2021-10-20 | daily  |  day  | Object |
+|   | Open | The opening price of the Ethereum | daily |USD| float|
+|   | Close | The closing price of the Ethereum | daily |USD| float|
+ | [Ethereum_value.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Ethereum_value.csv)  | Date  | The processed date time from ETHUSD  | daily  | day  | datetime  |
+| [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Train.csv) | 6-month-ma  | The mean value of the closing price for the past 6 months | daily | USD  | float  |
+| [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Prediction/Regression_Test.csv) | 6-month-ma  | The mean value of the closing price for the past 6 months | daily | USD  | float  
+ | [Ethereum_Data.csv](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/data/Causal%20Inference/Ethereum_Data.csv) | ETH / USD Denominated Closing Price  | The closing price of Ethereum from 2015-08-07 to 2021-10-20  | daily  | USD  | float  |
 
 </div>
 
@@ -146,7 +146,7 @@
 
 - [Code source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/blob/main/code/Causal-Inference)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/tree/main/data/Causal%20Inference)
-- Description: The results of the regression discontinuity analysis are presented in Figure 4, which shows a clear discontinuity in the Ethereum price following the FTX bankruptcy. This finding suggestes that the FTX bankruptcy had a significant causal effect on the Ethereum price. Furthermore, it indicates a gradual increase in Ethereum price over time after the event, implying that the impact of the FTX bankruptcy is likely to have diminished over time.
+- Description: The results of the regression discontinuity analysis are presented in Figure 4, which shows a clear discontinuity in the Ethereum price following the FTX bankruptcy. The x-axis represents the date, which ranges from 2022/10/1 to 2023/1/2. The y-axis is the closing price of Ethereum. The scatter plots refer to the real closing price of Ethereum each day, and the two lines are the linear regression results of the closing price. This finding suggestes that the FTX bankruptcy had a significant causal effect on the Ethereum price. Furthermore, it indicates a gradual increase in Ethereum price over time after the event, implying that the impact of the FTX bankruptcy is likely to have diminished over time.
 
 ### AI Ethics Issues
 - One AI ethics issue is whether the exchange is trusted or not. The algorithms might be manipulated. For example, an exchange could potentially use tricks such as "wash trading" (i.e. buying and selling assets with oneself to create the appearance of market activity) to artificially inflate its perceived trustworthiness. 
